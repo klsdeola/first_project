@@ -40,7 +40,7 @@ class _CodeTestState extends State<CodeTest> {
 
 
    Future<void> _checkImage() async {
-     // TODO: Implement image verification using a third-party service like Google's Vision API or Microsoft's Azure Cognitive Services
+     // TODO: Want to Implement image verification using a third-party service like Google's Vision API
    }
 
 
